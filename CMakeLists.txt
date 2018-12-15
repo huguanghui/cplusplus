@@ -6,7 +6,8 @@ set(CXX_FLAGS
 -g
 -Wall
 -Werror
--rdynamic
+#-rdynamic
+-std=c++11
 )
 string(REPLACE ";" " " CMAKE_CXX_FLAGS "${CXX_FLAGS}")
 

@@ -1,1 +1,4 @@
 add_subdirectory(vector)
+add_subdirectory(array)
+add_subdirectory(deque)
+add_subdirectory(list)

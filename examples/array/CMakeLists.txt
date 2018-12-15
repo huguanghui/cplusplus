@@ -1,0 +1,1 @@
+add_executable(hgh_array01 Main.cpp)
