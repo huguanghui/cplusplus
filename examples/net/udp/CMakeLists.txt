@@ -1,0 +1,2 @@
+add_executable(hgh_udp_client_01 01_udp_client.cpp)
+add_executable(hgh_udp_server_02 02_udp_server.cpp)
